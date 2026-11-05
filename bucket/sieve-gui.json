@@ -1,17 +1,17 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Editor for server-side Sieve mail filters",
   "homepage": "https://github.com/lukas-runge/sieve-gui",
   "license": "MIT",
   "notes": "sieve-gui needs WebView2, which Windows 10 and 11 include.",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/lukas-runge/sieve-gui/releases/download/v0.1.0/sieve-gui_0.1.0_x64_portable.zip",
-      "hash": "b74e531c32f0cb16855021f4f6efb62e1d97d75b7d009f0aad03865fe2ce71ba"
+      "url": "https://github.com/lukas-runge/sieve-gui/releases/download/v0.2.0/sieve-gui_0.2.0_x64_portable.zip",
+      "hash": "71d149127d3e8d07e679c5e1e346fcecf8fed5f5154afe891ec6d4d31904e623"
     },
     "arm64": {
-      "url": "https://github.com/lukas-runge/sieve-gui/releases/download/v0.1.0/sieve-gui_0.1.0_arm64_portable.zip",
-      "hash": "3cc09e69b6bb509d7c1b457574bbc68e5295aececc88077c189ac2fc78eb863e"
+      "url": "https://github.com/lukas-runge/sieve-gui/releases/download/v0.2.0/sieve-gui_0.2.0_arm64_portable.zip",
+      "hash": "b67da12e1e60c3b5ef46e0c303ff9f778a0d4ec4d60734b5ed2dd45b375fa45f"
     }
   },
   "bin": "sieve-gui.exe",

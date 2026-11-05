@@ -7,7 +7,7 @@
 A desktop editor for server-side Sieve mail filters: [lukas-runge/sieve-gui](https://github.com/lukas-runge/sieve-gui).
 
 ```powershell
-scoop bucket add lukas https://github.com/lukas-runge/scoop-bucket
+scoop bucket add lukas-runge https://github.com/lukas-runge/scoop-bucket
 scoop install sieve-gui
 ```
 
